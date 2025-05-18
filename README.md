@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALvinrafa
 - 👀 I’m interested in application and web programming
 - 🌱 I’m currently learning python 
-- 💞 I’m like read comic
+- 💞 I’m like read comic and and listening to music
 - 📫 How to reach me none
 - 😄 Pronouns: he
 - ⚡ Fun fact: i'm a human

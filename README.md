@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALvinrafa
+- 👋 Hi, I’m alvin rafa al ghifari
 - 👀 I’m interested in application and web programming
 - 🌱 I’m currently learning python 
 - 💞 I’m like read comic and and listening to music
